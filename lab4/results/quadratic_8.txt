@@ -1,0 +1,16 @@
+Thread 0: a=8.90, b=8.27, c=8.15
+  No real roots
+Thread 1: a=3.26, b=10.00, c=1.88
+  x1=-0.20, x2=-2.87
+Thread 2: a=6.64, b=7.71, c=0.11
+  x1=-0.01, x2=-1.15
+Thread 3: a=3.25, b=8.31, c=7.33
+  No real roots
+Thread 4: a=6.11, b=8.29, c=7.63
+  No real roots
+Thread 5: a=6.45, b=3.04, c=1.48
+  No real roots
+Thread 6: a=5.93, b=0.50, c=4.91
+  No real roots
+Thread 7: a=9.76, b=4.13, c=6.11
+  No real roots

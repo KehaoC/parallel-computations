@@ -1,0 +1,7 @@
+Time taken for Floyd-Warshall: 1.504 ms
+Number of threads used: 16
+
+Shortest distances for test pairs:
+Shortest distance between 0 and 13: 0.609737
+Shortest distance between 1 and 10: 0.567732
+Shortest distance between 5 and 8: 0.621634

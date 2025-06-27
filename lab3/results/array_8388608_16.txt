@@ -1,0 +1,5 @@
+Serial time: 0.008855 seconds
+Serial sum: 4194014.539447
+Parallel time (16 threads): 0.001744 seconds
+Parallel sum: 4194014.539447
+Difference: 0.0000002678

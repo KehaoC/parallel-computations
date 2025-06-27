@@ -1,0 +1,6 @@
+Threads: 1
+Total points: 65536
+Points in circle: 51547
+Pi estimate: 3.1461791992
+Absolute error: 0.0045865456
+Execution time: 0.001775 seconds

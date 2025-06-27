@@ -1,0 +1,2 @@
+Thread 0: a=8.90, b=8.27, c=8.15
+  No real roots

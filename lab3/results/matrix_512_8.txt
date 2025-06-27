@@ -1,0 +1,3 @@
+Serial time: 0.152501 seconds
+Parallel time (8 threads): 0.031743 seconds
+Speedup: 4.80x
